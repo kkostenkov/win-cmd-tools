@@ -6,3 +6,10 @@ Some I use via the send-to menu in Explorer, others I have on the desktop for dr
 ---
 
 Read up http://ss64.com/ how to install the various needed applications for the batch files, and/or how to link them for usage, eg. via environment variables.
+
+
+#### Add in "Send to ..."
+1. Win + R    
+2.     shell:sendto 
+
+3. Put link/shortcut to cmd file to this directory
