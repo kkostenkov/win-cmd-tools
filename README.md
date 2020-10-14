@@ -13,3 +13,11 @@ Read up http://ss64.com/ how to install the various needed applications for the 
 2.     shell:sendto 
 
 3. Put link/shortcut to cmd file to this directory
+
+
+
+
+
+### Android
+- **adb-install**  Installs apk to device.
+- **adb-push-to-obb**  Pushes obb to device.
